@@ -40,3 +40,4 @@ This project is a backend API for a social networking web application. It allows
 - POST /api/thoughts/:thoughtId/reactions - Add a reaction to a thought
 - DELETE /api/thoughts/:thoughtId/reactions/:reactionId - Remove a reaction from a thought
 
+<a href="https://app.screencastify.com/v3/watch/CAwGqsyW7L6qTbbi3S0m" target="_blank"> Link to walkthrough video</a>
